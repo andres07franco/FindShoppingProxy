@@ -1,0 +1,88 @@
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\ApplicationInsights.config
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\csc.exe
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\System.Collections.Immutable.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\vbc.exe
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\VBCSCompiler.exe
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\roslyn\VBCSCompiler.exe.config
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\FindShoppingBoot.dll.config
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\FindShoppingBoot.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\FindShoppingBoot.pdb
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.Web.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.WindowsServer.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.ApplicationInsights.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Newtonsoft.Json.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\System.Net.Http.Formatting.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\System.Web.Http.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\System.Web.Http.WebHost.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.Web.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.AI.WindowsServer.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.ApplicationInsights.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\Newtonsoft.Json.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\System.Net.Http.Formatting.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\System.Web.Http.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\System.Web.Http.WebHost.xml
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\es\System.Web.Http.resources.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\obj\Debug\FindShoppingBoot.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\obj\Debug\FindShoppingBoot.dll
+c:\users\carlos\documents\vrfranc.aisual studio 2015\Projects\FindShoppingBoot\FindShoppingBoot\obj\Debug\FindShoppingBoot.pdb
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\ApplicationInsights.config
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\csc.exe
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\vbc.exe
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\VBCSCompiler.exe
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\FindShoppingBoot.dll.config
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\FindShoppingBoot.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\FindShoppingBoot.pdb
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.Web.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Newtonsoft.Json.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\System.Net.Http.Formatting.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\System.Web.Http.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\System.Web.Http.WebHost.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.Web.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\Newtonsoft.Json.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\System.Net.Http.Formatting.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\System.Web.Http.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\System.Web.Http.WebHost.xml
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\es\System.Web.Http.resources.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\obj\Debug\FindShoppingBoot.csprojResolveAssemblyReference.cache
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\obj\Debug\FindShoppingBoot.dll
+C:\Users\cmarriaga\Documents\Personal\Projects\FindShoppingBoot\obj\Debug\FindShoppingBoot.pdb
