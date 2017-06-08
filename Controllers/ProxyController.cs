@@ -23,12 +23,12 @@ namespace FindShoppingBoot.Controllers
         public async Task<HttpResponseMessage> Get(string URL)
         {
             this.URL = URL;
-            /*var t = new System.Threading.Thread(BrowserThread);
+            var t = new System.Threading.Thread(BrowserThread);
             t.SetApartmentState(System.Threading.ApartmentState.STA);
             t.Start();
              //t.Join();
             oSignalEvent.WaitOne();
-            oSignalEvent.Reset();*/
+            oSignalEvent.Reset();
             HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.OK, "");
             response.Content = new StringContent(html, Encoding.Unicode);
             return response;
@@ -44,7 +44,7 @@ namespace FindShoppingBoot.Controllers
                 if (i == 1)
                 {
                     oSignalEvent.Set();
-                    //Application.ExitThread();
+                    Application.ExitThread();
                 }
                 i++;
             };
